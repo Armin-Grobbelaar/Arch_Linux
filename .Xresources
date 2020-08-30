@@ -1,0 +1,9 @@
+!!Colors
+
+
+!!Urxvt settings
+URxvt.scrollBar:  false
+URxvt.background:	[70]#181a1c
+URxvt.foreground:	#FFFFFF
+URxvt.letterSpace: -3
+URxvt.font:       xft:noto sans extracondensed:size=10
