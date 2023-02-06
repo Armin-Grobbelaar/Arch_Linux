@@ -1,0 +1,68 @@
+Key bindings
+
+
+$mod + d                        Open dmenu(the application launcher)
+
+$mod + enter                    Open a new terminal
+
+$mod + 1, 2, 3                  Moving to workspace 1, 2, 3
+
+$mod + Shift + 1, 2, 3          Moving the focused app to workspace 1, 2, 3
+
+$mod + Arrow keys               Switch between windows
+
+$mod + Shift + Arrow keys       Change the focused window position
+
+$mod + h                        Tiling windows horizontally
+
+$mod + v                        Tiling windows vertically
+
+$mod + w                        Tiling windows in tab mode
+
+$mod + s                        Tiling windows in stack mode
+
+$mod + e                        Back to default tiling mode
+
+$mod + f                        Make Window Fullscreen
+
+$mod + Shift + q                Close the focused window
+
+$mod + Space                    Switch between tiling window and floating one
+
+$mod + Shift + Space            Move a focused window to floating or tiling mode
+
+$mod + r                        Resize mode, ESC to exit
+
+$mod + Shift + c                Reload configuration file
+
+$mod + Shift + r                Restart i3 inplace
+
+
+Personal
+
+
+Shift+s                         R Calculator
+
+Shift+a                         Andriod Studio
+
+Shift+b                         Brave
+
+Shift+f                         Nemo
+
+Shift+c                         Code
+
+Shift+r                         RStudio
+
+Shift+p                         Pycharm
+
+Shift+o                         Only Office
+
+Shift+d                         Calibre
+
+Shift+k                         Kdenlive
+
+Shift+g                         Gimp
+
+Shift+v                         Okular
+
+Shift+n                         Obsidian
